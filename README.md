@@ -1,11 +1,20 @@
-# Sample Snack app
+# focustime
+> By davidjunior
+## About
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Focustime is a react native  app that allows user to set a time to focus on an anctivity.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## RUNNNING APP
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Download expo app on appstore or playstore and go to this [site](exp://exp.host/@davidjunior/snack-83581373-4d64-4f84-8f4c-b5ac2715d792?release-channel=default)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+### Or scan this image
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+> ![image](https://user-images.githubusercontent.com/36107616/156664059-1ca62f8f-4cd0-4da2-ba34-f2a7d5f9b08d.png)
+
+## Sample Images
+
+![a290570e-a7ce-4875-a9ee-b2557b8f0eae](https://user-images.githubusercontent.com/36107616/156665847-e710f799-d8fd-46c5-ae38-9edbb55edc81.jpg)
+
+
+![f7ff3164-a733-4823-9ef8-6da3f7183c12](https://user-images.githubusercontent.com/36107616/156665777-5ebed5c2-945f-44b5-86fd-2ea842ba2e19.jpg)

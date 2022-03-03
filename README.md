@@ -6,7 +6,7 @@ Focustime is a react native  app that allows user to set a time to focus on an a
 
 ## Running the app
 
-Download expo app on appstore or playstore and go to this [site](exp://exp.host/@davidjunior/snack-83581373-4d64-4f84-8f4c-b5ac2715d792?release-channel=default)
+Download expo app on appstore or playstore and go to this [site](https://expo.dev/@davidjunior/snack-83581373-4d64-4f84-8f4c-b5ac2715d792?serviceType=classic&distribution=expo-go)
 
 ### Or scan this image
 
